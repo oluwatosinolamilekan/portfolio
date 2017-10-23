@@ -1,0 +1,25 @@
+@media(max-width: 425px){
+
+	.navdesktop{
+		display: none;
+	}
+	.h3{
+		font-size: 25px;
+		text-align: center;
+	}
+
+	.coloum{
+	flex: 0 0 100%;
+	
+	}
+
+	.container{
+		width: 100%;
+	}
+}
+
+@media(min-width: 426px){
+	.hamburger{
+		display: none;
+	}
+}
