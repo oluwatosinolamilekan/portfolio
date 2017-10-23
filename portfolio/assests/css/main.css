@@ -55,7 +55,7 @@ ul.navlist{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #000;
+	
 }
 
 .overlay h3{
@@ -91,6 +91,7 @@ ul.navlist{
 }
 
 .circle{
+
 	height: 120px;
 	width: 120px;
 	border-radius: 100%;
@@ -101,6 +102,19 @@ ul.navlist{
 	align-items: center;
 	font-size: 20px;
 
+}
+
+
+.col-25{
+	width: 25%;
+}
+
+.col-50{
+	width: 50%;
+}
+
+.col-33{
+	width: calc(100% / 3);
 }
 
 /*.footer{
