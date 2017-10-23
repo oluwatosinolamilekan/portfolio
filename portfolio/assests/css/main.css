@@ -1,0 +1,24 @@
+body{
+		background: #EEE;
+		}
+
+		.blog{
+			color: #F00;
+			font-size: 50px;
+			letter-spacing: 1px;
+			text-align: center;
+			font-weight: 500;
+		}
+
+		#blog{
+			color: purple;
+			font-weight: 100; 
+			font-size:20px;
+
+		}
+
+		input[type='text']{
+			background: red;
+}
+
+			
