@@ -108,6 +108,7 @@ ul{
 	
 	height: 120px;
 	width: 120px;
+	display: flex;
 	border-radius: 100%;
 	border: 2px solid #DDD;
 	background: #EEE;
@@ -118,6 +119,7 @@ ul{
 	font-size: 20px;
 
 }
+
 
 
 .footer{
